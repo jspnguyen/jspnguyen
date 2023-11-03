@@ -10,7 +10,7 @@ Hi, I'm Joseph Nguyen, a current student at UC Berkeley majoring in Computer Sci
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jnguyen31#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jnguyen31#gh-dark-mode-only)
 
-### Languages
+### Languages:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -19,7 +19,7 @@ Hi, I'm Joseph Nguyen, a current student at UC Berkeley majoring in Computer Sci
 ![R](https://img.shields.io/badge/-R-000?&logo=r)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 
-### Technologies
+### Technologies:
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
