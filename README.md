@@ -30,4 +30,3 @@ Hi, I'm Joseph Nguyen, a current student at UC Berkeley majoring in Computer Sci
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 
-![](https://komarev.com/ghpvc/?username=jspnguyen&label=Profile%20Visits&color=blue&style=for-the-badge)
