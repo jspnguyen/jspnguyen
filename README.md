@@ -18,6 +18,7 @@ Hi, I'm Joseph Nguyen, a current student at UC Berkeley majoring in Computer Sci
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![R](https://img.shields.io/badge/-R-000?&logo=r)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 
 ### Technologies:
 
@@ -28,5 +29,6 @@ Hi, I'm Joseph Nguyen, a current student at UC Berkeley majoring in Computer Sci
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-
+![Sklearn](https://img.shields.io/badge/-sklearn-000?&logo=sklearn)
+![OpenCV](https://img.shields.io/badge/-opencv-000?&logo=opencv)
 
