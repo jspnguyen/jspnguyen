@@ -29,6 +29,6 @@ Hi, I'm Joseph Nguyen, a current student at UC Berkeley majoring in Computer Sci
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Sklearn](https://img.shields.io/badge/-sklearn-000?&logo=sklearn)
+![Sklearn](https://img.shields.io/badge/-scikitlearn-000?&logo=scikitlearn)
 ![OpenCV](https://img.shields.io/badge/-opencv-000?&logo=opencv)
 
